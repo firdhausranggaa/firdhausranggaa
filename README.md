@@ -13,6 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+**firdhausranggaa/firdhausranggaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 # Hi there, I'm Rangga Razzaq Firdhaus 👋
 
 Informatics Engineering student passionate about **Software Engineering**, **Generative AI**, and **Computer Networking**. Currently sharpening skills in full-stack development, AI model workflows, and scalable systems.
@@ -53,14 +68,14 @@ Informatics Engineering student passionate about **Software Engineering**, **Gen
 
 ---
 
-## 📈 GitHub Analytics
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdhausranggaa&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7B2CBF&icon_color=9D4EDD&text_color=A6ADC8&border_color=30363D&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firdhausranggaa&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7B2CBF&icon_color=9D4EDD&text_color=A6ADC8&border_color=30363D&hide_border=true&v=1" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdhausranggaa&theme=tokyonight&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakNum=A6ADC8&sideNums=A6ADC8&currStreakLabel=7B2CBF&sideLabels=7B2CBF&dates=A6ADC8&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdhausranggaa&theme=tokyonight&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakNum=A6ADC8&sideNums=A6ADC8&currStreakLabel=7B2CBF&sideLabels=7B2CBF&dates=A6ADC8&hide_border=true&v=1" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdhausranggaa&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7B2CBF&text_color=A6ADC8&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdhausranggaa&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7B2CBF&text_color=A6ADC8&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 ---
@@ -68,11 +83,7 @@ Informatics Engineering student passionate about **Software Engineering**, **Gen
 ### 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdhausranggaa&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdhausranggaa&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=FFFFFF&area=true&hide_border=true&v=1" alt="Activity Graph" />
 </div>
 
 ---
-
-### 📬 Connect With Me
-- **GitHub:** [@firdhausranggaa](https://github.com/firdhausranggaa)
-- **LinkedIn:** [https://www.linkedin.com/in/ranggarazzaq/]
