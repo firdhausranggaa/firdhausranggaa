@@ -55,17 +55,19 @@ Informatics Engineering student passionate about **Software Engineering**, **Gen
 
 ### 📊 GitHub Stats & Activity
 
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdhausranggaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firdhausranggaa&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=firdhausranggaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdhausranggaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdhausranggaa&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdhausranggaa&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdhausranggaa&theme=tokyo-night&area=true&hide_border=true&v=1" alt="Activity Graph" width="100%" />
 </p>
 
 ---
