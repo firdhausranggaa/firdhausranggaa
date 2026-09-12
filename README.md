@@ -72,4 +72,4 @@ Informatics Engineering student passionate about **Software Engineering**, **Gen
 
 ### 📬 Connect With Me
 - **GitHub:** [@firdhausranggaa](https://github.com/firdhausranggaa)
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** [https://www.linkedin.com/in/ranggarazzaq/]
