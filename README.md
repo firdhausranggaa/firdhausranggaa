@@ -72,14 +72,6 @@ Informatics Engineering student passionate about **Software Engineering**, **Gen
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=firdhausranggaa&theme=tokyonight&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakNum=A6ADC8&sideNums=A6ADC8&currStreakLabel=7B2CBF&sideLabels=7B2CBF&dates=A6ADC8&hide_border=true&v=1" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
-
-<!--
-  Gambar di atas (github-metrics.svg) digenerate otomatis oleh GitHub Actions
-  (lihat .github/workflows/metrics.yml) dan disimpan langsung di repo ini,
-  jadi tidak bergantung pada server pihak ketiga yang sering down.
--->
 
 ---
