@@ -70,12 +70,20 @@ Informatics Engineering student passionate about **Software Engineering**, **Gen
 
 ### 📈 GitHub Analytics
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=firdhausranggaa&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7B2CBF&icon_color=9D4EDD&text_color=A6ADC8&border_color=30363D&hide_border=true&v=1" alt="GitHub Stats" /> <br/><br/> <img src="https://streak-stats.demolab.com/?user=firdhausranggaa&theme=tokyonight&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakNum=A6ADC8&sideNums=A6ADC8&currStreakLabel=7B2CBF&sideLabels=7B2CBF&dates=A6ADC8&hide_border=true&v=1" alt="GitHub Streak" /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdhausranggaa&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7B2CBF&text_color=A6ADC8&hide_border=true&v=1" alt="Top Languages" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firdhausranggaa&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7B2CBF&icon_color=9D4EDD&text_color=A6ADC8&border_color=30363D&hide_border=true&v=1" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=firdhausranggaa&theme=tokyonight&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakNum=A6ADC8&sideNums=A6ADC8&currStreakLabel=7B2CBF&sideLabels=7B2CBF&dates=A6ADC8&hide_border=true&v=1" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdhausranggaa&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7B2CBF&text_color=A6ADC8&hide_border=true&v=1" alt="Top Languages" />
+</div>
 
 ---
 
 ### 📊 Contribution Activity
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdhausranggaa&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=FFFFFF&area=true&hide_border=true&v=1" alt="Activity Graph" /> </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdhausranggaa&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=FFFFFF&area=true&hide_border=true&v=1" alt="Activity Graph" />
+</div>
 
 ---
